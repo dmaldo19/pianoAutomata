@@ -51,7 +51,6 @@ export const InfoModal: React.FC<InfoModalProps> = ({ isOpen, onClose }) => {
             <li>Con esta actividad adicional buscamos desarrollar más y mejor nuestro proyecto, </li>
             <li>dejando más en claro el cómo se relacionan los autómatas con las notas, y</li>
             <li>haciéndolo más intuitivo para el usuario.</li>
-            <li>Tercera Menor: Avanza una tercera menor</li>
           </ul>
           <br />
           <h4 style={{fontWeight: "bold"}}>Integrantes:</h4>
